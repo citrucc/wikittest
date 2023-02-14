@@ -1,4 +1,4 @@
-Your company wants to transition to a Kubernetes-based infrastructure for running their containerized applications. In order to do that, they will need a basic Kubernetes cluster to get started.
+Your company wants to transition to a Kubernetes-based infrastructure for running their containerized applications. In order to do that, they will need a basic Kubernetes cluster to get started.2
 
 You have been provided with three servers. Build a simple Kubernetes cluster with one control plane node and two worker nodes.
 
